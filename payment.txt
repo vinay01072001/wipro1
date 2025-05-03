@@ -1,0 +1,6 @@
+choose payment option
+1.Internet Banking
+2.Debit/credit card
+3.UPI
+4.COD
+Exit

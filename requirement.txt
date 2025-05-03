@@ -1,0 +1,6 @@
+wipro training
+login
+products
+payment
+cart
+
